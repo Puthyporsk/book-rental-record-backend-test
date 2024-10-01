@@ -1,1 +1,1 @@
-# book-rental-record-backend-test
+# book-rental-record-backend
